@@ -1,2 +1,2 @@
-# Assignment_2
+# Covid-Information-API
 
