@@ -1,2 +1,2 @@
-# Covid-Information-API
-PROG2005
+# Assignment_2
+
