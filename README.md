@@ -1,6 +1,6 @@
 # Covid-Information-API
 
-The API has endpoints:
+The API has  endpoints:
 
 http://localhost:8080/corona/v1/country/ <br />
 http://localhost:8080/corona/v1/policy/ <br />
@@ -132,4 +132,3 @@ Example response: <br />
     "Uptime": 2.7876306
 }
 ```
-
